@@ -4,7 +4,7 @@
   
   Estrutura de Dados: Abrange programas feitos por meio do uso de Lista Encadeadas e Árvores Binárias;
   
-  Manipulação de arquivos: Consiste na construção de dois programas. O primeiro apresenta uma LED e um Gerenciador de Espaços Disponíveis, o segundo, Hash Invertido. 
+  Manipulação de arquivos: Consiste na construção de dois programas. O primeiro apresenta uma LED e um Gerenciador de Espaços Disponíveis, o segundo, Hash Extens 
 
 # Ferramentas Utilizadas 🔧
   
