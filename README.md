@@ -1,6 +1,6 @@
 # Projetos 🖥
 
-  Fundamentos: Conjunto de programas que realizam algumas tarefas simples por meio do uso de funç;
+  Fundamentos: Conjunto de programas que realizam algumas tarefas simples por meio do uso de funções, laços de repetição e registros;
   
   Estrutura de Dados: Abrange programas feitos por meio do uso de Lista Encadeadas e Árvores Binárias;
   
