@@ -1,6 +1,6 @@
 # Projetos 🖥
 
-  Funções: Conjunto de programas que realizam algumas tarefas simples por meio do uso de funções;
+  Fundamentos: Conjunto de programas que realizam algumas tarefas simples por meio do uso de funç;
   
   Estrutura de Dados: Abrange programas feitos por meio do uso de Lista Encadeadas e Árvores Binárias;
   
